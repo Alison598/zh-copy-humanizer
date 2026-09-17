@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文文案人味儿化"
+  short_description: "把 AI 味较重的中文文案改得自然、具体，并保留原意与作者习惯"
+  default_prompt: "使用 $zh-copy-humanizer 改写下面这段中文文案，保留原意和事实信息，让表达更自然："
